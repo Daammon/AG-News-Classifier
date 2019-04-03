@@ -9,3 +9,6 @@ based on the repository of hugginface(https://github.com/huggingface/pytorch-pre
 
 With AWD-LSTM the accuracy obtained in the test set was 92.2% after 10 epocs of finetuning the language model and 3 epocs of training the classifier 
 and with Bert I reached 94.22% after 3 epocs of finetuning the language model and 2 epocs of training the classifier.
+
+The notebook is the AWD-LSTM version and the folder is the Bert Version. Make sure to clone the huggingface repository before
+running it. You can download the dataset from FastAI.
